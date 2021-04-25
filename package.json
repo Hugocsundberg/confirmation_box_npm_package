@@ -1,0 +1,16 @@
+{
+  "name": "minimal_confirmation_box",
+  "version": "1.0.0",
+  "description": "Promise-based Javascript confirmation box",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "confirmation-box",
+    "confirmation",
+    "confirm"
+  ],
+  "author": "Hugo Sundberg",
+  "license": "MIT"
+}
