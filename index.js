@@ -79,7 +79,4 @@ export class ConfirmationBox {
         })
     }
 }
-
-const popUp = new ConfirmationBox('this is message', 'yes', 'no')
-popUp.createPopUp()
 export default ConfirmationBox

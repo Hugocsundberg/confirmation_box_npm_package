@@ -1,6 +1,6 @@
 {
-  "name": "minimal_confirmation_box",
-  "version": "1.0.0",
+  "name": "confirmation_box",
+  "version": "1.0.1",
   "description": "Promise-based Javascript confirmation box",
   "main": "index.js",
   "scripts": {
